@@ -2,6 +2,8 @@
 
 Welcome to the official repository for the AI Club's Summer School 2024! This repository contains resources, materials, and information for all the sessions conducted during the summer school program.
 
+The contents of this repository were made by me and my fellow coordinators during our tenure at the AI club in IIT Madras
+
 ## Table of Contents
 
 - [Overview](#overview)
